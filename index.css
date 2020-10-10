@@ -2,7 +2,6 @@
     margin: 0% 0%;
     padding: 0% 0%;
 }
-
 body {
     background-color: black;
     height: 100vh;
@@ -29,8 +28,6 @@ body {
     width: 20%;
     align-items: flex-end;
     justify-content: flex-end;
-
-
 }
 
 .contactNow div {
@@ -106,8 +103,6 @@ body {
 .fa-linkedin {
     color: #0077b5
 }
-
-
 /*Project Details*/
 
 .section-header {
